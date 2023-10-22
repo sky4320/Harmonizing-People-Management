@@ -1,14 +1,6 @@
 # Harmonizing-People-Management
 A Comprehensive Study of Effective Strategies in Software Engineering
 
-**Department:** Department of Computer Science and Engineering  
-
-**Course:** CSE 5325-003 SOFTWARE ENGINEERING: MANAGEMENT, MAINTENANCE & QUALITY ASSURANCE  
-
-**Instructors:** PROF. Mr. GIRIDHAR AMARAVADI, TA. SINDOORA RAVI KUMAR MURTHY  
-
-**Group Number:** 6
-
 
 ## Table of Contents
 
@@ -476,7 +468,6 @@ http://160592857366.free.fr/joe/ebooks/ShareData/Software%20Engineering%20-
 %20Wiley%202007.pdf
 
 ## Contributors 
-**Submitted by:**
 - Aditya Reddy Velkur 
 - Abhiram Vempati 
 - Danish Vij 
